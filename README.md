@@ -1,2 +1,2 @@
-# NYC-Fire-Incidents-Visualization
+# NYC Fire Incidents Visualization
 R
