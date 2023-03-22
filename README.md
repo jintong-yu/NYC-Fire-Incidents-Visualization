@@ -1,6 +1,5 @@
 # NYC Fire Incidents Visualization
-R
-**Author**:
+**Author**:  
 Jintong Yu
-**Description**:
+**Description**:  
 Applied data processing and created interactive maps using visualization packages in R
